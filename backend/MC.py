@@ -2,6 +2,7 @@ import numpy as np
 import itertools
 from typing import Set, Dict, Any, List, Union
 
+
 class MC:
     def __init__(self,
                  S: Set,
